@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arda Doğru</h1>
 <h3 align="center">Software Developer Intern / Biomedical Engineer</h3>
 
-- 🔭 I’m currently working at **Cavamed** as a Software Developer Intern
+- 🔭 I’m currently working at **Technomind Digital Systems** as a Software and Application Engineer
 
 - 🌱 I’m currently learning **Machine Learning,Artificial Neural Network and Data Science**
 
